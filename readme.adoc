@@ -27,7 +27,7 @@ Or grab a concrete version, by clicking the Raw button on the tagged version of 
 
 [source,javascript]
 ----
-javascript:$.getScript('https://cdn.rawgit.com/jexp/spoon-neo4j/0.1/spoon.js');
+javascript:$.getScript('https://halhekovnik.github.io/spoon-neo4j/spoon.js');
 ----
 ////
 
